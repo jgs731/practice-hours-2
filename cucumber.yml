@@ -1,0 +1,1 @@
+default: --publish-quiet --no-source --color --format html --out results.html --format json --out reports.json
